@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<libraries>
+    <library>
+        <location>amd/src/local/able/ableplayer.js</location>
+        <name>Able Player</name>
+        <description>Able Player is a fully accessible cross-browser HTML5 media player.</description>
+        <version>4.5</version>
+        <license>MIT</license>
+        <licenseversion>2.0</licenseversion>
+        <repository>https://github.com/ableplayer/ableplayer</repository>
+        <copyrights>
+            <copyright>Able Player</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/local/jscookie/js.cookie.js</location>
+        <name>JS Cookie</name>
+        <customised/>
+    </library>
+</libraries>
